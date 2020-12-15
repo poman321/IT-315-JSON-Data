@@ -1,0 +1,35 @@
+{
+  "students": [
+    {
+      "fName": "A",
+      "lName": "Z",
+      "studentID": "G12345678",
+      "hoursWorked": "15"
+    },
+    {
+      "fName": "B",
+      "lName": "Y",
+      "studentID": "G87654321",
+      "hoursWorked": "25"
+    },
+    {
+      "fName": "C",
+      "lName": "X",
+      "studentID": "G56781234",
+      "hoursWorked": "12"
+    },
+    {
+      "fName": "D",
+      "lName": "W",
+      "studentID": "43218765",
+      "hoursWorked": "40"
+    },
+    {
+      "fName": "E",
+      "lName": "V",
+      "studentID": "G81273645",
+      "hoursWorked": "5"
+    },
+  ],
+  "status": "OK"
+}
