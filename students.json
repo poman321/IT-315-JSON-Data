@@ -1,32 +1,32 @@
 {
   "students": [
     {
-      "fName": "A",
-      "lName": "Z",
+      "fName": "Patrick",
+      "lName": "Oman",
       "studentID": "G12345678",
       "hoursWorked": "15"
     },
     {
-      "fName": "B",
-      "lName": "Y",
+      "fName": "John",
+      "lName": "Doe",
       "studentID": "G87654321",
       "hoursWorked": "25"
     },
     {
-      "fName": "C",
-      "lName": "X",
+      "fName": "Bob",
+      "lName": "Smith",
       "studentID": "G56781234",
       "hoursWorked": "12"
     },
     {
-      "fName": "D",
-      "lName": "W",
+      "fName": "Robert",
+      "lName": "Lee",
       "studentID": "43218765",
       "hoursWorked": "40"
     },
     {
-      "fName": "E",
-      "lName": "V",
+      "fName": "Alex",
+      "lName": "Brown",
       "studentID": "G81273645",
       "hoursWorked": "5"
     }
